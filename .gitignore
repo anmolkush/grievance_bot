@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local history (Cursor / VSCode)
+.history/
+.local-history/
+
+# Coverage/test reports
+.coverage
+*.cover
+htmlcov/
+.pytest_cache/
+
+# Cursor / SpecStory specific
+.specstory/
+.cursorindexingignore
+.env

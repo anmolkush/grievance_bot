@@ -1,0 +1,3 @@
+MONGODB_URI="mongodburi"
+DATABASE_NAME=grievance_db
+OPENAI_API_KEY="openai api key"
