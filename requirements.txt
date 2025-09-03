@@ -12,3 +12,4 @@ pydantic>=2.5.0
 certifi
 dnspython
 langsmith>=0.0.83,<0.1.0
+tiktoken==0.7.0
