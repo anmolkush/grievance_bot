@@ -313,7 +313,7 @@ with col2:
         with col_input:
             user_input = st.text_input(
                 "Type your message...", 
-                placeholder="E.g., 'I want to register a complaint about my laptop'",
+                placeholder="",
                 key=f"user_input_{st.session_state.input_key}",
                 label_visibility="collapsed"
             )
